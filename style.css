@@ -12,5 +12,7 @@ header a{background-color: grey;
         padding: 10px
 }
 
-figure {margin:auto;
+figure {display: block;
+  margin-left:auto;
+  margin-right:auto;
     width: 100%;}
