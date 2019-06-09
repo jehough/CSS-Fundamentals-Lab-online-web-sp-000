@@ -7,4 +7,6 @@ body {
 header{margin:auto;
   width:50%;}
 
-header a{background-color: grey}
+header a{background-color: grey;
+        padding: 10px
+}
