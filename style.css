@@ -5,6 +5,7 @@ body {
 }
 
 header{text-align: center;
+  margin: auto;
   width:50%;}
 
 header a{background-color: grey;
