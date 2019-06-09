@@ -15,3 +15,8 @@ header a{background-color: grey;
 img {display: block;
   margin-left:auto;
   margin-right:auto;}
+
+figcaption {text-align: center;
+            margin:auto;
+            font-size: 10px
+          }
