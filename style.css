@@ -23,3 +23,5 @@ figcaption {text-align: center;
 section#featured-property p {margin: auto;
   width: 800px;
 text-align: center;}
+
+#details {display: block}
