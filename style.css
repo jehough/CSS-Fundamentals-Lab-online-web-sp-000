@@ -20,6 +20,6 @@ figcaption {text-align: center;
             margin:auto;
             font-size: 12px
           }
-.featured-property {color: red;
+.featured-property p {color: red;
   width: 800px;
 text-align: center;}
