@@ -25,3 +25,5 @@ section#featured-property p {margin: auto;
 text-align: center;}
 
 section#details {display: block}
+
+section#details div{float: left}
