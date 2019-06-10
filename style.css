@@ -27,4 +27,4 @@ text-align: center;}
 section#details {display: block}
 
 section#details div{float: left;
-        padding: 25%}
+        width: 25%}
