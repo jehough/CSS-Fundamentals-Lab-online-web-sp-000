@@ -24,9 +24,9 @@ section#featured-property p {margin: auto;
   width: 800px;
 text-align: center;}
 
-section#details {display: block;
-                background-color: red}
+section#details {display: block}
 
 section#details div{text-align: center;
         float: left;
-        width: 25%}
+        width: 25%;
+      background-color: red}
