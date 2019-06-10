@@ -26,5 +26,6 @@ text-align: center;}
 
 section#details {display: block}
 
-section#details div{float: left;
+section#details div{text-align: center;
+  float: left;
         width: 25%}
